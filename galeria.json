@@ -1,108 +1,139 @@
 [
-  {
-    "id": 1,
-    "title": "MF-Diseño1",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Manicura%20Francesa/MF-Dise%C3%B1o1.png?raw=true"
-  },
-  {
-    "id": 2,
-    "title": "MF-Diseño2",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Manicura%20Francesa/MF-Dise%C3%B1o2.jpg?raw=true"
-  },
-  {
-    "id": 3,
-    "title": "MF-Diseño3",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Manicura%20Francesa/MF-Dise%C3%B1o3.jpg?raw=true"
-  },
-  {
-    "id": 4,
-    "title": "MF-Diseño4",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Manicura%20Francesa/MF-Dise%C3%B1o4.jpg?raw=true"
-  },
-  {
-    "id": 5,
-    "title": "MF-Diseño5",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Manicura%20Francesa/MF-Dise%C3%B1o5.jpg?raw=true"
-  },
-  {
-    "id": 6,
-    "title": "N-Diseño1",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Navidad/N-Dise%C3%B1o1.png?raw=true"
-  },
-   {
-    "id": 7,
-    "title": "N-Diseño2",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Navidad/N-Dise%C3%B1o2.jpg?raw=true"
-  },
-  {
-    "id": 8,
-    "title": "N-Diseño3",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Navidad/N-Dise%C3%B1o3.jpg?raw=true"
-  },
-  {
-    "id": 9,
-    "title": "N-Diseño4",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Navidad/N-Dise%C3%B1o4.jpg?raw=true"
-  },
-  {
-    "id": 10,
-    "title": "N-Diseño5",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Navidad/N-Dise%C3%B1o5.png?raw=true"
-  },
-  {
-    "id": 11,
-    "title": "H-Diseño1",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Halloween/H-Dise%C3%B1o1.jpg?raw=true"
-  },
-  {
-    "id": 12,
-    "title": "H-Diseño2",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Halloween/H-Dise%C3%B1o2.jpg?raw=true"
-  },
-  {
-    "id": 13,
-    "title": "H-Diseño3",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Halloween/H-Dise%C3%B1o3.jpg?raw=true"
-  },
-  {
-    "id": 14,
-    "title": "SV-Diseño1",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/San%20Valentin/SV-Dise%C3%B1o1.jpg?raw=true"
-  },
     {
-    "id": 15,
-    "title": "SV-Diseño2",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/San%20Valentin/SV-Dise%C3%B1o2.jpg?raw=true"
-  },
+      "id": 1,
+      "title": "MF-Diseño1",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Manicura%20Francesa/MF-Dise%C3%B1o1.png?raw=true"
+    },
     {
-    "id": 16,
-    "title": "SV-Diseño3",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/San%20Valentin/SV-Dise%C3%B1o3.jpg?raw=true"
-  },
+      "id": 2,
+      "title": "MF-Diseño2",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Manicura%20Francesa/MF-Dise%C3%B1o2.jpg?raw=true"
+    },
     {
-    "id": 17,
-    "title": "O-Diseño1",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Otros%20dise%C3%B1os/O-Dise%C3%B1o1.jpg?raw=true"
-  },
+      "id": 3,
+      "title": "MF-Diseño3",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Manicura%20Francesa/MF-Dise%C3%B1o3.jpg?raw=true"
+    },
     {
-    "id": 18,
-    "title": "O-Diseño2",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Otros%20dise%C3%B1os/O-Dise%C3%B1o2.jpg?raw=true"
-  },
+      "id": 4,
+      "title": "MF-Diseño4",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Manicura%20Francesa/MF-Dise%C3%B1o4.jpg?raw=true"
+    },
     {
-    "id": 19,
-    "title": "O-Diseño3",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Otros%20dise%C3%B1os/O-Dise%C3%B1o3.jpg?raw=true"
-  },
+      "id": 5,
+      "title": "MF-Diseño5",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Manicura%20Francesa/MF-Dise%C3%B1o5.jpg?raw=true"
+    },
     {
-    "id": 20,
-    "title": "O-Diseño4",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Otros%20dise%C3%B1os/O-Dise%C3%B1o4.jpg?raw=true"
-  },
+      "id": 6,
+      "title": "N-Diseño1",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Navidad/N-Dise%C3%B1o1.png?raw=true"
+    },
+     {
+      "id": 7,
+      "title": "N-Diseño2",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Navidad/N-Dise%C3%B1o2.jpg?raw=true"
+    },
     {
-    "id": 21,
-    "title": "O-Diseño5",
-    "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Otros%20dise%C3%B1os/O-Dise%C3%B1o5.jpg?raw=true"
-  }
- 
-]
+      "id": 8,
+      "title": "N-Diseño3",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Navidad/N-Dise%C3%B1o3.jpg?raw=true"
+    },
+    {
+      "id": 9,
+      "title": "N-Diseño4",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Navidad/N-Dise%C3%B1o4.jpg?raw=true"
+    },
+    {
+      "id": 10,
+      "title": "N-Diseño5",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Navidad/N-Dise%C3%B1o5.png?raw=true"
+    },
+    {
+      "id": 11,
+      "title": "H-Diseño1",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Halloween/H-Dise%C3%B1o1.jpg?raw=true"
+    },
+    {
+      "id": 12,
+      "title": "H-Diseño2",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Halloween/H-Dise%C3%B1o2.jpg?raw=true"
+    },
+    {
+      "id": 13,
+      "title": "H-Diseño3",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Halloween/H-Dise%C3%B1o3.jpg?raw=true"
+    },
+    {
+        "id": 14,
+        "title": "H-Diseño4",
+        "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Halloween/H-Dise%C3%B1o4.jpg?raw=true"
+      },
+    {
+      "id": 15,
+      "title": "SV-Diseño1",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/San%20Valentin/SV-Dise%C3%B1o1.jpg?raw=true"
+    },
+      {
+      "id": 16,
+      "title": "SV-Diseño2",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/San%20Valentin/SV-Dise%C3%B1o2.jpg?raw=true"
+    },
+      {
+      "id": 17,
+      "title": "SV-Diseño3",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/San%20Valentin/SV-Dise%C3%B1o3.jpg?raw=true"
+    },
+    {
+        "id": 18,
+        "title": "SV-Diseño4",
+        "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/San%20Valentin/SV-Dise%C3%B1o4.jpg?raw=true"
+      },
+    
+      {
+      "id": 19,
+      "title": "O-Diseño1",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Otros%20dise%C3%B1os/O-Dise%C3%B1o1.jpg?raw=true"
+    },
+      {
+      "id": 20,
+      "title": "O-Diseño2",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Otros%20dise%C3%B1os/O-Dise%C3%B1o2.jpg?raw=true"
+    },
+      {
+      "id": 21,
+      "title": "O-Diseño3",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Otros%20dise%C3%B1os/O-Dise%C3%B1o3.jpg?raw=true"
+    },
+      {
+      "id": 22,
+      "title": "O-Diseño4",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Otros%20dise%C3%B1os/O-Dise%C3%B1o4.jpg?raw=true"
+    },
+      {
+      "id": 23,
+      "title": "O-Diseño5",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Otros%20dise%C3%B1os/O-Dise%C3%B1o5.jpg?raw=true"
+    },
+    {
+      "id": 24,
+      "title": "P-Diseño1",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Dise%C3%B1o%20Pies/P-Dise%C3%B1o1.jpg?raw=true"
+    },
+    {
+      "id": 25,
+      "title": "P-Diseño2",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Dise%C3%B1o%20Pies/P-Dise%C3%B1o2.jpg?raw=true"
+    },
+      {
+      "id": 26,
+      "title": "P-Diseño3",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Dise%C3%B1o%20Pies/P-Dise%C3%B1o3.jpg?raw=true"
+    },
+      {
+      "id": 27,
+      "title": "P-Diseño4",
+      "url": "https://github.com/Jenniferg003/Proyecto.github.io/blob/main/Dise%C3%B1o%20Pies/P-Dise%C3%B1o4.jpg?raw=true"
+    }  
+   
+  ]
